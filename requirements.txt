@@ -1,2 +1,8 @@
-pandas
 # Transformers
+transformers
+
+# torch w/ CUDA, channel -c pytorch
+pytorch 
+torchvision 
+torchaudio 
+cudatoolkit=10.2 

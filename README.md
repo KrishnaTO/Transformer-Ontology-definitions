@@ -15,3 +15,14 @@ Extraction of definitions can be built through language models, using the decode
 
 Use [SciFive](https://paperswithcode.com/sota/relation-extraction-on-chemprot) for Langauge Model pre-trained model. This model will allow general term testing from open domains but will severely lack precision for contextual definitions.
 Note that BERT models use encoders and the decoder transformers will be required to be built appropriately.
+
+### Conda env
+
+This project uses the conda env
+
+## Issues
+
+### Cuda
+
+Context: Using GPU for models, need to work out appropriate configs for local machines.
+Issue: CUDA-11-6 installation issues (unmet dependencies), along with incompatible nvidia architecture on Linux Mint.

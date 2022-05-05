@@ -1,0 +1,3 @@
+[submodule "LM/SciFive"]
+	path = LM/SciFive
+	url = https://github.com/justinphan3110/SciFive
